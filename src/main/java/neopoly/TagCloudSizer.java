@@ -1,3 +1,5 @@
+package neopoly;
+
 import processing.core.PApplet;
 import wordcram.Word;
 

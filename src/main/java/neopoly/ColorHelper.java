@@ -1,3 +1,5 @@
+package neopoly;
+
 import java.awt.*;
 
 /**

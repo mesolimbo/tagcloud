@@ -2,4 +2,8 @@
 /tagcloud.jar
 /out/
 /.idea/
-/out.png
+/out.pnggradle
+/build
+/.gradle
+/gradle
+/gradlew*

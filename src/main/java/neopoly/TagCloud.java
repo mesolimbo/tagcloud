@@ -1,3 +1,5 @@
+package neopoly;
+
 import processing.core.PApplet;
 
 import java.io.FileInputStream;
@@ -16,6 +18,6 @@ public class TagCloud {
             e.printStackTrace();
             return;
         }
-        PApplet.main(new String[]{"--present", "TagCloudGenerator"});
+        PApplet.main(new String[]{"--present", "neopoly.TagCloudGenerator"});
     }
 }

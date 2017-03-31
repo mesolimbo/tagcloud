@@ -1,9 +1,10 @@
-import processing.core.*;
+package neopoly;
+
+import processing.core.PApplet;
+import wordcram.Word;
 import wordcram.WordCram;
 
 import java.awt.*;
-
-import wordcram.*;
 
 /**
  * Generate a TagCloud image of a text file and a shape image.

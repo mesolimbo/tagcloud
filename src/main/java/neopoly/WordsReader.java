@@ -1,3 +1,5 @@
+package neopoly;
+
 import wordcram.Word;
 
 import java.io.*;

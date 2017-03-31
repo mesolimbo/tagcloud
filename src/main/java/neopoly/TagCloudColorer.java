@@ -1,3 +1,6 @@
+package neopoly;
+
+import neopoly.ColorHelper;
 import wordcram.Word;
 import wordcram.WordColorer;
 
